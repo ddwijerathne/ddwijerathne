@@ -1,3 +1,4 @@
+<img width="1584" height="672" alt="Passionate Programmer   AI Enthusiast" src="https://github.com/user-attachments/assets/5cd25408-efed-4ed7-95c6-412bcd3c4bf0" />
 👋 Hi there! I'm Daksitha Wijerathne
 🎓 Undergraduate in Computer Science and Engineering
 
